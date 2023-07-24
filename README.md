@@ -7,6 +7,8 @@ Playgrounds:
 - Plunker: https://plnkr.co/edit/StZ1atqDgy10YqX5?preview
 - Replit: https://replit.com/@8Observer8/Sprite-in-SFML-style-using-pure-WebGL-10-and-JS
 
+![image](https://github.com/8Observer8/sprite-in-sfml-style-rollup-webgl-js/assets/3908473/cea8a28e-f9b5-4f41-889b-3addd85cbc0b)
+
 Instruction for building and running the project in debug and release using Rollup:
 
 - Install these packages globally with the command:
