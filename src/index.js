@@ -48,7 +48,7 @@ async function init() {
         sprite.draw(projViewMatrix);
 
         sprite.setTextureRect("enemy_walk_1.png");
-        sprite.setPosition(16 * 1, -16 * 1 + 8);
+        sprite.setPosition(16 * 1, -16 * 2 + 8);
         sprite.draw(projViewMatrix);
 
         sprite.setTextureRect("mario_dead.png");
