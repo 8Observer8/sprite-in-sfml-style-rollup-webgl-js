@@ -1,0 +1,20 @@
+{
+  "name": "sprite-in-sfml-style-rollup-webgl-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "rollup -cmw",
+    "del-index-map": "del /f /q /s .\\public\\js\\index.js.map",
+    "bundle": "rollup -cm",
+    "minify": "uglifyjs public/js/index.js -o public/js/index.js",
+    "release": "npm run bundle && npm run minify && npm run del-index-map"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gl-matrix": "^3.4.3"
+  }
+}
