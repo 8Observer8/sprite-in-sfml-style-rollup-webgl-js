@@ -1,6 +1,7 @@
-This example loads sprites from the FreeTexturePacker sprite sheet and uses a sprite in SFML style.
-
-Buy me a chicory coffee: https://boosty.to/ivan_8observer8/donate This service supports PayPal.
+Source code in another languages:
+- [OpenGL ES 2.0, Qt6, C++](https://github.com/8Observer8/sprite-in-sfml-style-opengles2-qt6-cpp)
+- [OpenGL ES 2.0, PySide6, Python](https://github.com/8Observer8/sprite-in-sfml-style-opengles2-pyside6-python)
+- [OpenGL ES 2.0, PyQt6, Python](https://github.com/8Observer8/sprite-in-sfml-style-opengles2-pyqt6-python)
 
 Playgrounds:
 
@@ -34,3 +35,5 @@ Note. Rollup will automatically keep track of saving changes to files and build 
 > npm run release
 
 Note. After this command, Rollup will create a compressed index.js file. Compression is done using the uglify-js package.
+
+Buy me a coffee: https://boosty.to/ivan_8observer8/donate This service supports PayPal.
